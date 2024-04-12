@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practica05MendozaReyesAngelEmanuel</string>
+    <string name="Titulo">Ropa Deportiva</string>
+    <string name="buscar">Buscar</string>
+    <string name="codigo">Codigo</string>
+    <string name="marca">Marca</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="modelo">Modelo</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="temporadaPast">Pasada</string>
+    <string name="futura">Futura</string>
+    <string name="colores">Colores</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="naranja">Naranja</string>
+    <string name="talla">Talla</string>
+    <string name="chica">Chica</string>
+    <string name="mediana">Mediana</string>
+    <string name="grande">Grande</string>
+    <string name="costo">Costo</string>
+</resources>
